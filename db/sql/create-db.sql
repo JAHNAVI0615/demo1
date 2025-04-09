@@ -36,7 +36,7 @@ CREATE TABLE product (
 
 INSERT INTO product (product_name, description, price, product_group, image_url) VALUES
 <<<<<<< HEAD
-	  ('Samosa', 'Fresh, buttery and fluffy... Simply delicious!', 1.50, 1, 'images/Croissants.jpg')
+	  ('Pani Puri', 'Fresh, buttery and fluffy... Simply delicious!', 1.50, 1, 'images/Croissants.jpg')
 	, ('Vada', 'We have more than half-a-dozen flavors!', 1.00, 1, 'images/Donuts.jpg')
 =======
 	  
