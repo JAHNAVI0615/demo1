@@ -17,8 +17,4 @@ COPY cafe/ /var/www/html/
 RUN chmod -R 755 /var/www/html
 
 # Expose port 80 (HTTP)
-<<<<<<< HEAD
 EXPOSE 80
-=======
-EXPOSE 80
->>>>>>> d5d1e73f57d4fcc0827a0939bafe49f7a6483098
